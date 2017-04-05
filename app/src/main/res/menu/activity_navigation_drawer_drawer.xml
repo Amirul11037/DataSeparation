@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/body_info"
+                android:title="Halal Info" />
+            <item
+                android:id="@+id/profile"
+                android:title="My Profile" />
+            <item
+                android:id="@+id/disclaimer"
+                android:title="Disclaimer" />
+            <item
+                android:id="@+id/contact_us"
+                android:title="Contact Us" />
+
+            <item
+                android:id="@+id/sign_out"
+                android:title="Sign Out" />
+        </menu>
+    </item>
+
+</menu>
